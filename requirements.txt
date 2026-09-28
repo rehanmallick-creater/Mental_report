@@ -1,6 +1,6 @@
+numpy
+pandas
+scikit-learn==1.6.1
+joblib
 fastapi
 uvicorn
-pydantic
-joblib
-pandas
-scikit-learn
